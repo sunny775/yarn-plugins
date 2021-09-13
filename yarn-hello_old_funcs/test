@@ -1,0 +1,5 @@
+user.name=Nkwuda Sunday Cletus
+user.email=scletus40@yahoo.com
+user.signingkey=64C708814523D373
+commit.gpgsign=true
+gpg.program=gpg
